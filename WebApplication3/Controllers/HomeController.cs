@@ -12,7 +12,8 @@ namespace WebApplication3.Controllers
     {
         public IActionResult Index()
         {
-            return Content("hello wuqing!!!");
+            return Content("2322");
+            //return Content("hello wuqing!!!");
             //return View();
         }
 
